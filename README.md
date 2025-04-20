@@ -24,7 +24,7 @@ Este projeto em Python simula um sistema de gerenciamento de produtos, estoque, 
 
 ## 🧠 Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.12.5
 - Programação Orientada a Objetos (POO)
 - Manipulação de arquivos `.txt`
 - Padrão DAO para persistência de dados
